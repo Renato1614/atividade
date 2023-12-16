@@ -1,1 +1,1 @@
-![Alt text]("Azure Voting App.png")
+[Alt text](image.png)
